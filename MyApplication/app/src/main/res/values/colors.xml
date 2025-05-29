@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-        <color name="lavenderLight">#F3E5F5</color>   <!-- Arka plan -->
-        <color name="pastelBlue">#C2F0FF</color>      <!-- EditText & kart -->
-        <color name="lavenderDark">#B388EB</color>    <!-- Butonlar -->
-        <color name="textDark">#2C2C2C</color>        <!-- Ana yazılar -->
-        <color name="white">#FFFFFF</color>           <!-- Buton yazısı -->
-        <color name="textMain">#2C2C2C</color>
-</resources>
